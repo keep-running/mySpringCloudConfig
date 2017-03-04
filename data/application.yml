@@ -5,10 +5,10 @@ eureka:
 
 ---
 spring:
-  profiles: subject
+  profiles: eureka-1
 words: Rose,Tom,Jack,Lily,John
 
 ---
 spring:
-  profiles: verb
+  profiles: eureka-2
 words: is great,is excellent,is just so so, is well
